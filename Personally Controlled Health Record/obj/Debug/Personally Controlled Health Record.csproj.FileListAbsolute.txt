@@ -1,0 +1,19 @@
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\pchr42563.mdf
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\pchr42563_log.ldf
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\Personally Controlled Health Record.exe.config
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\Personally Controlled Health Record.exe
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\Personally Controlled Health Record.pdb
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally Controlled Health Record.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally_Controlled_Health_Record.frmLogin.resources
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally_Controlled_Health_Record.frmPersonalHealthRecord.resources
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally_Controlled_Health_Record.frmRegister.resources
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally_Controlled_Health_Record.Properties.Resources.resources
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally Controlled Health Record.csproj.GenerateResource.cache
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally Controlled Health Record.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally Controlled Health Record.exe
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\obj\Debug\Personally Controlled Health Record.pdb
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\pchr42563DataSet.Designer.cs
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\pchr42563DataSet.xsc
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\pchr42563DataSet.xsd
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\pchr42563DataSet.xss
+C:\Users\Cameron\source\repos\Personally Controlled Health Record\Personally Controlled Health Record\bin\Debug\pchr42563DataSet.cs
